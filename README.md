@@ -1,16 +1,19 @@
-Frontend
-•	HTML/CSS/JS
-•	Bootstrap
-Backend
-•	Spring Boot
-Thư Viện & Framework
-•	Spring JPA
-•	Spring Security
-•	Spring Web
-•	Thymeleaf
-•	Lombok
-•	Validation
-Cơ sở dữ liệu: MySQL
+## **Công Nghệ Sử Dụng**
+
+### **Frontend**
+- **HTML/CSS/JS**  
+- **Bootstrap**
+### **Backend**
+- **Spring Boot**
+
+### **Thư Viện & Framework**
+- Spring JPA  
+- Spring Security  
+- Spring Web  
+- Thymeleaf  
+- Lombok  
+- Validation
+### **Cơ sở dữ liệu**: MySQL
 ________________________________________
 Chức năng người dùng
 1. Chức Năng Người Dùng
